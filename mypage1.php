@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>การเชื่อมโยงเว็บไซต์</title>
+    <title>งานเรื่อง link</title>
   </head>
   <body>
     <a href="https://facebook.com"><h1>จิ้มจิ้ม</h1></a>
