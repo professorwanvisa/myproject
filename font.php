@@ -8,7 +8,7 @@
       }
       @font-face{
         font-family: "MyFont2";
-        src: url("sOv_kLoRnG.ttf");
+        src: url("wassartwisuwatfont.ttf");
       }
       #font1{
         font-family: "MyFont1";
