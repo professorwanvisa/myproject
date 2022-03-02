@@ -5,9 +5,10 @@
   <body>
     <table border="1">
       <tr>
-        <th>column 1</th>
-        <th>column 2</th>
-        <th>column 3</th>
+        <th>No.</th>
+        <th>Name</th>
+        <th>image</th>
+        <th>twitter</th>
       </tr>
       <tr>
         <td>column 1</td>
